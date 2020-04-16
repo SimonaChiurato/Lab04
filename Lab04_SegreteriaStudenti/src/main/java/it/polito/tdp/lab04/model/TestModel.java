@@ -5,10 +5,9 @@ public class TestModel {
 	public static void main(String[] args) {
 
 		Model model = new Model();
-		
-		/*
-		 * 	Write here your test model
-		 */
+		String a= "aaaa";
+		if(a.length()==4)
+			System.out.println("AHHHHHH");
 
 	}
 
